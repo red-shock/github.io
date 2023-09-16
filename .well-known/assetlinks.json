@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.bird_tracker_dev",
+      "sha256_cert_fingerprints": [
+        "91:B2:02:6C:8D:72:84:AE:B7:4F:3F:5E:03:0F:96:77:BB:F4:F9:9B:DF:76:42:29:A7:D4:63:8C:48:54:7D:28"
+      ]
+    }
+  }
+]
